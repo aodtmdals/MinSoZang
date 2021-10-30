@@ -3,10 +3,37 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14583333333333334" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.14583333333333334" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14583333333333334" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/drawable/lyning down_background.xml" value="0.14583333333333334" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/drawable/plusbutton_background.xml" value="0.14583333333333334" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/layout/activity_add_share.xml" value="0.1296875" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/layout/activity_career.xml" value="0.2" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/layout/activity_main.xml" value="0.136" />
         <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/layout/activity_sub_actibity.xml" value="0.1296875" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/layout/activity_tour.xml" value="0.176" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/layout/fragment_info_1.xml" value="0.2" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/layout/fragment_info_2.xml" value="0.2" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/layout/fragment_info_3.xml" value="0.2" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/layout/fragment_list.xml" value="0.1296875" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/layout/fragment_milk_share.xml" value="0.152" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/layout/fragment_tour.xml" value="0.1296875" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/layout/fragment_win.xml" value="0.4" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/layout/fragment_wnew.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/layout/item2.xml" value="0.4" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/layout/milk_share_todo.xml" value="0.176" />
         <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/layout/page3_breastmilk_list.xml" value="0.1296875" />
-        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/menu/navi_menu.xml" value="0.2" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/menu/navi_menu.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/menu/top_menu.xml" value="0.4" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/mipmap-anydpi-v26/football.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/mipmap-anydpi-v26/lyning down.xml" value="0.14583333333333334" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/mipmap-anydpi-v26/lyning down_round.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/mipmap-anydpi-v26/lyningdown.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/mipmap-anydpi-v26/lyningdown_round.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/mipmap-anydpi-v26/plus.xml" value="0.14583333333333334" />
+        <entry key="..\:/AndroidStudio/MyApplication3/app/src/main/res/mipmap-anydpi-v26/plus_round.xml" value="0.14583333333333334" />
       </map>
     </option>
   </component>
