@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginStart="15dp"
+    android:layout_marginEnd="15dp">
+
+    <TextView
+        android:id="@+id/milk_info_title_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="트림시키기"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/burp_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="1. 아기를 엄마 무릎에 앉혀서 엄마의 한쪽 손은 윗가슴과 아래턱을 받치고, 다른 손은 손 바닥으로 아기의 등을 아래에서 위로 쓸어 올리거나 토닥거립니다.\n2. 아기를 엄마의 어깨 위까지 올려서 아기의 상체가 엄마의 어깨에 걸치게 합니다. 그리고 한 손은 아기의 엉덩이를 받치고, 다른 손은 아기의 등을 쓰다듬거나 토닥거려 줍니다.\n3. 아기를 엄마 무릎위에 눕혀서 손바닥으로 위로 쓸어주거나 가볍게 토닥거려 줍니다."
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/eat_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:textSize="24sp"
+        android:text="젖을 올바르게 먹이는 방법" />
+
+    <TextView
+        android:id="@+id/eat_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="1. 아기를 엄마 무릎에 앉혀서 엄마의 한쪽 손은 윗가슴과 아래턱을 받치고, 다른 손은 손 바닥으로 아기의 등을 아래에서 위로 쓸어 올리거나 토닥거립니다.\n2. 아기를 엄마의 어깨 위까지 올려서 아기의 상체가 엄마의 어깨에 걸치게 합니다. 그리고 한 손은 아기의 엉덩이를 받치고, 다른 손은 아기의 등을 쓰다듬거나 토닥거려 줍니다.\n3. 아기를 엄마 무릎위에 눕혀서 손바닥으로 위로 쓸어주거나 가볍게 토닥거려 줍니다."
+        android:textSize="18sp" />
+
+
+</LinearLayout>

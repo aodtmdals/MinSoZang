@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp" >
+
+            <TextView
+                android:id="@+id/milk_info_title_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="모유수유 자세"
+                android:textSize="24sp" />
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                app:srcCompat="@mipmap/candle_foreground" />
+
+            <TextView
+                android:id="@+id/candle_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text=" 요람식 자세 (Cradle position)"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/candle_info"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="60dp"
+                android:text="1. 베개를 하나, 둘 정도 무릎위에 놓아 아기를 받쳐 줍니다.\n2. 팔꿈치 안쪽에 아기의 머리를 올려놓습니다.\n3. 아기의 가슴이 엄마의 가슴을 향하는 자세가 이상적입니다.\n4. 아기의 귀, 어깨, 엉덩이가 일직선상에 있어야 합니다."
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                app:srcCompat="@mipmap/football_foreground" />
+
+            <TextView
+                android:id="@+id/football_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text=" 측면자세 (Football position)"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/football_info"
+                android:layout_width="wrap_content"
+                android:layout_height="81dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="60dp"
+                android:text="1. 베개 1-2개를 수유모의 옆구리 부위에 놓아 엄마의 팔과 아기를 받쳐줍니다.\n2. 엄마의 손으로 아기의 머리와 목을, 팔로 아기의 몸체 부위를 받쳐주어 엄마의 옆구리 부위에 있게 합니다.\n"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                app:srcCompat="@mipmap/lying_foreground" />
+
+            <TextView
+                android:id="@+id/lyningdown_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text=" 누운자세 (Lying-down  position)"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/lyningdown_info"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="100dp"
+                android:text="1. 옆으로 누운 자세에서 수유모의 등을 베개로, 그리고 위쪽에 놓인 다리를 앞쪽으로 굽힌 상태에서 베개로 지지해 줍니다.\n2. 아기가 엄마를 바라볼 수 있는 자세를 유지하여 옆으로 눕힙니다.\n"
+                android:textSize="18sp" />
+        </LinearLayout>
+</ScrollView>

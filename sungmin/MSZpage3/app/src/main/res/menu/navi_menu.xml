@@ -2,12 +2,29 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <group android:checkableBehavior="single">
+        <item android:id="@+id/home"
+            android:title="홈">
+        </item>
+        <item android:id="@+id/tour_info"
+            android:title="여행지 추천">
+        </item>
 
-        <item android:id="@+id/breastmilk_information"
-            android:title="모유 수유 방법"/>
+        <item android:id="@+id/career_info"
+            android:title="일자리 검색">
+        </item>
 
-        <item android:id="@+id/breastmilk_share"
-            android:title="모유 공유"/>
+                    <item android:id="@+id/milk_info_1"
+                        android:title="모유수유 자세">
+                    </item>
+                    <item android:id="@+id/milk_info_2"
+                        android:title="유방을 잡는 법 | 젖물리는 방법">
+                    </item>
+                    <item android:id="@+id/milk_info_3"
+                        android:title="트림시키기 | 젖을 올바르게 먹이는 방법">
+                    </item>
+                    <item android:id="@+id/milk_share"
+                        android:title="모유 공유">
+                    </item>
 
     </group>
 
